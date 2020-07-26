@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="mean">Enter Its Meaning</string>
+    <string name="meaning">Enter Meaning</string>
+    <string name="word">Enter Word</string>
+    <string name="learn">Learn Everyday</string>
+    <string name="word2">Word Of The Day</string>
+</resources>
